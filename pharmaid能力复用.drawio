@@ -19,13 +19,13 @@
         <mxCell id="dKdSaXE48SgPbhcamS2K-34" edge="1" parent="1" source="dKdSaXE48SgPbhcamS2K-35" style="edgeStyle=elbowEdgeStyle;rounded=1;elbow=vertical;html=1;startSize=10;endArrow=block;endFill=0;endSize=10;jettySize=auto;orthogonalLoop=1;strokeColor=#808080;fontSize=14;dashed=1;" target="dKdSaXE48SgPbhcamS2K-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-35" parent="1" style="html=1;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.tech;techType=sysSw;fontSize=14;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;System&lt;div&gt;Software&lt;/div&gt;" vertex="1">
+        <mxCell id="dKdSaXE48SgPbhcamS2K-35" parent="1" style="html=1;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.tech;techType=sysSw;fontSize=14;" value="LLMs" vertex="1">
           <mxGeometry height="60" width="140" x="444" y="860" as="geometry" />
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-36" edge="1" parent="1" source="dKdSaXE48SgPbhcamS2K-37" style="edgeStyle=elbowEdgeStyle;rounded=1;elbow=vertical;html=1;startSize=10;endArrow=block;endFill=0;endSize=10;jettySize=auto;orthogonalLoop=1;strokeColor=#808080;fontSize=14;dashed=1;" target="dKdSaXE48SgPbhcamS2K-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-37" parent="1" style="html=1;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.tech;techType=sysSw;fontSize=14;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;System&lt;/span&gt;&lt;div&gt;Software&lt;/div&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="dKdSaXE48SgPbhcamS2K-37" parent="1" style="html=1;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.tech;techType=sysSw;fontSize=14;" value="&lt;div&gt;Knowledge&amp;nbsp;&lt;br&gt;Base&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="140" x="684" y="860" as="geometry" />
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-38" edge="1" parent="1" source="dKdSaXE48SgPbhcamS2K-40" style="edgeStyle=elbowEdgeStyle;rounded=1;elbow=vertical;html=1;startSize=10;endArrow=open;endFill=0;endSize=10;jettySize=auto;orthogonalLoop=1;strokeColor=#808080;fontSize=14;entryX=0.25;entryY=1;" target="dKdSaXE48SgPbhcamS2K-49">
@@ -75,46 +75,46 @@
         <mxCell id="dKdSaXE48SgPbhcamS2K-46" edge="1" parent="1" source="dKdSaXE48SgPbhcamS2K-47" style="edgeStyle=elbowEdgeStyle;rounded=1;elbow=vertical;html=1;startSize=10;endArrow=open;endFill=0;endSize=10;jettySize=auto;orthogonalLoop=1;strokeColor=#808080;fontSize=14;" target="dKdSaXE48SgPbhcamS2K-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-47" parent="1" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" value="Module" vertex="1">
+        <mxCell id="dKdSaXE48SgPbhcamS2K-47" parent="1" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" value="APIs" vertex="1">
           <mxGeometry height="80" width="185" x="329" y="510" as="geometry" />
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-48" edge="1" parent="1" source="dKdSaXE48SgPbhcamS2K-49" style="edgeStyle=elbowEdgeStyle;rounded=1;elbow=vertical;html=1;startSize=10;endArrow=open;endFill=0;endSize=10;jettySize=auto;orthogonalLoop=1;strokeColor=#808080;fontSize=14;" target="dKdSaXE48SgPbhcamS2K-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-49" parent="1" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" value="Module" vertex="1">
+        <mxCell id="dKdSaXE48SgPbhcamS2K-49" parent="1" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" value="RAG" vertex="1">
           <mxGeometry height="80" width="185" x="537" y="510" as="geometry" />
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-50" edge="1" parent="1" source="dKdSaXE48SgPbhcamS2K-51" style="edgeStyle=elbowEdgeStyle;rounded=1;elbow=vertical;html=1;startSize=10;endArrow=open;endFill=0;endSize=10;jettySize=auto;orthogonalLoop=1;strokeColor=#808080;fontSize=14;" target="dKdSaXE48SgPbhcamS2K-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-51" parent="1" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" value="Module" vertex="1">
+        <mxCell id="dKdSaXE48SgPbhcamS2K-51" parent="1" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" value="Data Service" vertex="1">
           <mxGeometry height="80" width="185" x="761.5" y="510" as="geometry" />
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-52" edge="1" parent="1" source="dKdSaXE48SgPbhcamS2K-53" style="edgeStyle=elbowEdgeStyle;rounded=1;elbow=vertical;html=1;startSize=10;endArrow=open;endFill=0;endSize=10;jettySize=auto;orthogonalLoop=1;strokeColor=#808080;fontSize=14;" target="dKdSaXE48SgPbhcamS2K-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-53" parent="1" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" value="Module" vertex="1">
+        <mxCell id="dKdSaXE48SgPbhcamS2K-53" parent="1" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" value="Higress Gateway&#xa;（Models，MCPs）" vertex="1">
           <mxGeometry height="80" width="185" x="969" y="510" as="geometry" />
         </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-54" parent="1" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=14;" value="Function" vertex="1">
+        <mxCell id="dKdSaXE48SgPbhcamS2K-54" parent="1" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=14;" value="Agents" vertex="1">
           <mxGeometry height="75" width="150" x="346.5" y="360" as="geometry" />
         </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-55" parent="1" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=collab;archiType=square;fontSize=14;" value="Collaboration" vertex="1">
+        <mxCell id="dKdSaXE48SgPbhcamS2K-55" parent="1" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=collab;archiType=square;fontSize=14;" value="Knowledge" vertex="1">
           <mxGeometry height="75" width="150" x="554.5" y="360" as="geometry" />
         </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-56" parent="1" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=event;archiType=rounded;fontSize=14;" value="Application Event" vertex="1">
+        <mxCell id="dKdSaXE48SgPbhcamS2K-56" parent="1" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=event;archiType=rounded;fontSize=14;" value="Data" vertex="1">
           <mxGeometry height="75" width="150" x="779" y="360" as="geometry" />
         </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-57" parent="1" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;fontSize=14;" value="Process" vertex="1">
+        <mxCell id="dKdSaXE48SgPbhcamS2K-57" parent="1" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;fontSize=14;" value="Chat LLM" vertex="1">
           <mxGeometry height="75" width="150" x="986.5" y="360" as="geometry" />
         </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-58" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;" value="Technology" vertex="1">
+        <mxCell id="dKdSaXE48SgPbhcamS2K-58" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;" value="Infrastructure Layer" vertex="1">
           <mxGeometry height="20" width="240" x="1269" y="751" as="geometry" />
         </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-59" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;" value="Application" vertex="1">
+        <mxCell id="dKdSaXE48SgPbhcamS2K-59" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;" value="Capablity Layer" vertex="1">
           <mxGeometry height="20" width="240" x="1269" y="541" as="geometry" />
         </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-60" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;" value="Business" vertex="1">
+        <mxCell id="dKdSaXE48SgPbhcamS2K-60" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;" value="Application Layer" vertex="1">
           <mxGeometry height="20" width="240" x="1259" y="389" as="geometry" />
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-61" edge="1" parent="1" source="dKdSaXE48SgPbhcamS2K-62" style="edgeStyle=elbowEdgeStyle;rounded=1;elbow=vertical;html=1;dashed=1;startSize=10;endArrow=block;endFill=0;endSize=10;jettySize=auto;orthogonalLoop=1;strokeColor=#808080;fontSize=14;" target="dKdSaXE48SgPbhcamS2K-54">
@@ -125,6 +125,24 @@
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-63" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="Title" vertex="1">
           <mxGeometry height="40" width="1590" x="50" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Zl7weRhzQTxxJFRE22Yk-1" parent="1" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.agent;pointerEvents=1;" value="" vertex="1">
+          <mxGeometry height="44.8" width="44.8" x="219" y="563" as="geometry" />
+        </mxCell>
+        <mxCell id="Zl7weRhzQTxxJFRE22Yk-2" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;rounded=1;elbow=vertical;html=1;dashed=1;startSize=10;endArrow=block;endFill=0;endSize=10;jettySize=auto;orthogonalLoop=1;strokeColor=#808080;fontSize=14;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="584.78" as="sourcePoint" />
+            <mxPoint x="338" y="584.78" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zl7weRhzQTxxJFRE22Yk-3" parent="1" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api" value="" vertex="1">
+          <mxGeometry height="48" width="50" x="219" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="Zl7weRhzQTxxJFRE22Yk-4" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;rounded=1;elbow=vertical;html=1;dashed=1;startSize=10;endArrow=block;endFill=0;endSize=10;jettySize=auto;orthogonalLoop=1;strokeColor=#808080;fontSize=14;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="853.38" as="sourcePoint" />
+            <mxPoint x="358" y="853.38" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
