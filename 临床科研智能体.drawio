@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.1">
+  <diagram name="第 1 页" id="0_511trgd3EoHoEykfmD">
+    <mxGraphModel dx="1473" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pFisJNlbftkl_-4k6lms-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="200" width="750" x="40" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pFisJNlbftkl_-4k6lms-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="临床研究&lt;div&gt;方案审阅&lt;div&gt;智能体&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="120" x="90" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="pFisJNlbftkl_-4k6lms-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="智能体统一门户" vertex="1">
+          <mxGeometry height="30" width="100" x="70" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pFisJNlbftkl_-4k6lms-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="专利查询&lt;div&gt;智能体&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="120" x="240" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="pFisJNlbftkl_-4k6lms-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="临床研究&lt;br&gt;深度研究&lt;br&gt;智能体" vertex="1">
+          <mxGeometry height="140" width="120" x="390" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="pFisJNlbftkl_-4k6lms-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="AI医学翻译&lt;br&gt;智能体" vertex="1">
+          <mxGeometry height="140" width="120" x="540" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="pFisJNlbftkl_-4k6lms-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="170" width="750" x="40" y="317" as="geometry" />
+        </mxCell>
+        <mxCell id="pFisJNlbftkl_-4k6lms-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="PharmAid临床医学智能体引擎&lt;div&gt;（专业临床智能体构建）&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="300" x="90" y="337" as="geometry" />
+        </mxCell>
+        <mxCell id="pFisJNlbftkl_-4k6lms-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Dify&lt;div&gt;（通用小工具智能体引擎）&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="300" x="430" y="337" as="geometry" />
+        </mxCell>
+        <mxCell id="pFisJNlbftkl_-4k6lms-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Agent引擎层" vertex="1">
+          <mxGeometry height="30" width="90" x="70" y="287" as="geometry" />
+        </mxCell>
+        <mxCell id="pFisJNlbftkl_-4k6lms-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="115" width="750" x="40" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="pFisJNlbftkl_-4k6lms-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="基础架构层" vertex="1">
+          <mxGeometry height="30" width="90" x="70" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="pFisJNlbftkl_-4k6lms-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="模型接入" vertex="1">
+          <mxGeometry height="60" width="120" x="90" y="555" as="geometry" />
+        </mxCell>
+        <mxCell id="pFisJNlbftkl_-4k6lms-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="数据存储" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="555" as="geometry" />
+        </mxCell>
+        <mxCell id="pFisJNlbftkl_-4k6lms-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="运维监控" vertex="1">
+          <mxGeometry height="60" width="120" x="380" y="555" as="geometry" />
+        </mxCell>
+        <mxCell id="pFisJNlbftkl_-4k6lms-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="日志采集" vertex="1">
+          <mxGeometry height="60" width="120" x="520" y="555" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
